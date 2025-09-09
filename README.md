@@ -37,24 +37,20 @@ Live demo: Vibes Ecommerce on Vercel
 
 **Why It Stands Out**
 
-Real shopping cart functionality without external libraries
-
-Clean UI design tailored for a fashion brand
-
-Built to show both frontend development skills and problem-solving grit
-
-Perfect as a portfolio project or a base template for real-world e-commerce sites
+- Real shopping cart functionality without external libraries
+- Clean UI design tailored for a fashion brand
+- Built to show both frontend development skills and problem-solving grit
+- Perfect as a portfolio project or a base template for real-world e-commerce sites
 
 
  
 **Future Improvements**
 
-Product detail pages with size & color options
+- Product detail pages with size & color options
+- Checkout page with form validation
+- Search & filter functionality
+- User authentication for saving carts
+- Dark/light mode toggle
 
-Checkout page with form validation
 
-Search & filter functionality
-
-User authentication for saving carts
-
-Dark/light mode toggle
+Made with code, coffee, and a whole lot of patience while wrangling that cart logic.
