@@ -1,0 +1,88 @@
+[
+    {
+        "id" : 1,
+        "name" : "Plaid Hooded shirt without tee",
+        "price" : 5000,
+        "image" : "assets/images/Boys Buffalo Plaid Hooded Shirt Without Tee.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 2,
+        "name" : "Women's Vintage A-line Pleated shirt",
+        "price" : 3500,
+        "image" : "assets/images/Dressever Women's Vintage A-line Printed Pleated Flared Midi Skirts.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 3,
+        "name" : "round Neck Short Sleeve T-Shirt",
+        "price" : 4500,
+        "image" : "assets/images/Breathable Solid Color round Neck Short Sleeve Cotton T-Shirts.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 4,
+        "name" : "Bungee Cords Pockets Casual Joggers",
+        "price" : 8000,
+        "image" : "assets/images/Mens Solid Color Bungee Cords Pockets Designer Casual Jogger Pants - Black _ 2XL.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 5,
+        "name" : "men's Light-blue slant pocket jeans",
+        "price" : 7000,
+        "image" : "assets/images/Men Light Wash Slant Pocket Jeans.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 6,
+        "name" : "Mens straight Baggy Jeans",
+        "price" : 5000,
+        "image" : "assets/images/Spring Summer Black Blue Men's Jeans Streetwear Denim Cotton Straight Baggy Pants Casual Hip Hop Loose Wide Jeans Trousers Black-38.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 7,
+        "name" : "letter graphic Sweatshirt",
+        "price" : 8000,
+        "image" : "assets/images/DAZY Men Letter Graphic Drop Shoulder Sweatshirt Without Tee Size S _ 36.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 8,
+        "name" : "floral wrap tie side dress",
+        "price" : 5500,
+        "image" : "assets/images/Ditsy Floral Wrap Tie Side Dress.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 9,
+        "name" : "Ashawo gown",
+        "price" : 3000,
+        "image" : "assets/images/2022 Summer Short Halter Fairyshely Sexy Ruffle V Deep Evening Party Dress - M _ RED.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 10,
+        "name" : "women's white fall shirt",
+        "price" : 3000,
+        "image" : "assets/images/57 Women's Fall Shirts [all under $20] — The Overwhelmed Mommy Blog.jpg",
+        "inCart" : 0 
+        
+    },
+    {
+        "id" : 11,
+        "name" : "green plaid hooded shirt without tee",
+        "price" : 12500,
+        "image" :"assets/images/Your friend give you $60 coupons -- Newchic.jpg",
+        "inCart" : 0
+    },
+    {
+        "id" : 12,
+        "name" : "Soft-Washed Long-Sleeve T-Shirt 3-Pack",
+        "price" : 4000,
+        "image" :"assets/images/Men's Soft-Washed Long-Sleeve T-Shirt 3-Pack Brown Regular Size XXXL.jpg",
+        "inCart" : 0
+    }
+
+]
